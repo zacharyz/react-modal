@@ -16,6 +16,7 @@ Usage
 <Modal
   isOpen={bool}
   onRequestClose={fn}
+  staticOverlay={bool}
   closeTimeoutMS={n}
 >
   <h1>Modal Content</h1>

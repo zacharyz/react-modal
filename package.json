@@ -1,13 +1,13 @@
 {
-  "name": "react-modal",
+  "name": "react-modal-static-overlay",
   "version": "0.1.1",
   "description": "Accessible modal dialog component for React.JS",
   "main": "./lib/index",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rackt/react-modal.git"
+    "url": "https://github.com/zacharyz/react-modal-static-overlay.git"
   },
-  "homepage": "https://github.com/rackt/react-modal",
+  "homepage": "https://github.com/zacharyz/react-modal-static-overlay",
   "bugs": "https://github.com/rackt/react-modal/issues",
   "directories": {
     "example": "examples"
